@@ -1,0 +1,2 @@
+# QOpenbotControl string translations
+
